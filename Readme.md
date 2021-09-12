@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Oksana Palladii](https://up.htmlacademy.ru/adaptive/23/user/476339).
-* Наставник: [Малик Киров](https://htmlacademy.ru/profile/id17217)
+* Наставник: [Малик](https://htmlacademy.ru/profile/id17217)
 
 ---
 
